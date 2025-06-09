@@ -2,6 +2,20 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+## TODO
+
+- [] Make it deploy (vercel)
+- [] Scaffold basic UI with mock data
+- [] Tidy up Build process
+- [] Actually set up a database (vercel postgres)
+- [] Attach database to UI
+- [] Add authentication (w/ clerk)
+- [] Add Prompt, test cases upload
+- [] Routing page (parallel route)
+- [] Delete button (w/ Server Actions)
+- [] Analytics (posthog)
+- [] Ratelimiting (upstash)
+
 First, run the development server:
 
 ```bash
