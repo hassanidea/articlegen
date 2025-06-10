@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 - [x] Make it deploy (vercel)
 - [x] Scaffold basic UI with article gen with text only
-- [] add images with article
+- [x] add images with article
 - [] Tidy up Build process
 - [] Actually set up a database (vercel postgres)
 - [] Attach database to UI
