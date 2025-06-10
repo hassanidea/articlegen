@@ -4,8 +4,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## TODO
 
-- [] Make it deploy (vercel)
-- [] Scaffold basic UI with mock data
+- [x] Make it deploy (vercel)
+- [x] Scaffold basic UI with article gen with text only
+- [] add images with article
 - [] Tidy up Build process
 - [] Actually set up a database (vercel postgres)
 - [] Attach database to UI
